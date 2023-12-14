@@ -1,0 +1,99 @@
+.modalbody {
+    width: 736px;
+    height: 457px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    z-index: 1;
+    backdrop-filter: blur(10px);
+    margin-top: 100px;
+
+    left: 20%;
+}
+
+.st {
+    background-image: url('../../assets/Rectangle.png');
+    height: 1024px;
+    position: absolute;
+    z-index: 1;
+}
+
+.ptag {
+    width: 736px;
+    height: 50px;
+    flex-shrink: 0;
+    color: #008A45;
+    text-align: center;
+    font-family: IBM Plex Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    /* 114.286% */
+    border-radius: 8px 8px 0px 0px;
+    background: #EFFFF4;
+    padding: 17px;
+}
+
+.h01 {
+    color: #000;
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.inputfeld {
+    width: 320px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 2px 2px 0px 0px;
+    border: 1px solid #D9D9DB;
+    background: #F7F8FA;
+}
+
+.eye {
+    position: absolute;
+    right: 4%;
+    top: 20%;
+
+}
+
+.signinbtn {
+    width: 340px;
+    height: 40px;
+    border-radius: 20px;
+    background: #2F6CE5;
+    color: #FFF;
+    border: none;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    margin-bottom: 24px;
+}
+
+.signinbtn2 {
+    width: 340px;
+    height: 40px;
+    border-radius: 20px;
+    border-radius: 2px;
+    border: 0.6px solid #D9D9DB;
+    background: #FFF;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+
+}
+
+.cross {
+    position: absolute;
+    margin-top: -34px;
+    right: 0%;
+    margin-right: -12px;
+}

@@ -10,6 +10,8 @@ import UserNavbar from './component/UserNavbar/UserNavbar'
 import Usertab from './component/Usertab/Usertab'
 import pen from './assets/pen.svg'
 import Loggedpost2 from './component/AllPost/Loggedpost2'
+import Loginmodals from './component/Login/Loginmodals'
+import Login from './component/Login/Login'
 function App() {
 
 
@@ -29,6 +31,7 @@ function App() {
       <UserNavbar></UserNavbar>
       <Usertab></Usertab>
       <Loggedpost2></Loggedpost2>
+      <Login></Login>
       
 
     </div>
