@@ -1,10 +1,8 @@
-
 import React from 'react';
-import imgs from '../../assets/hero.png'
 import './Hero.css';
-const Hero = () => {
+const Hero2 = () => {
     return (
-        <div className='hero'>
+        <div className='hero d-block d-lg-none'>
             <div className='d-block d-lg-none container'>
                 <nav className="navbar bg-transparent pt-3">
                     <div className="container-fluid">
@@ -17,16 +15,13 @@ const Hero = () => {
                     </div>
                 </nav>
             </div>
-            <div className='text-white mx-5 lh-0 pb-5 d-none d-lg-block' style={{ paddingTop: '286px', paddingBottom: '80px' }} >
-                <h1  style={{fontSize:'36px'}}>Computer Engineering</h1>
-                <p className='fw-light  ' style={{fontSize:'18px'}}>142,765 Computer Engineers follow this</p>
-            </div>
-            <div className='text-white mx-5 lh-0 pb-5 d-block d-lg-none'style={{ paddingTop: '250px', paddingBottom: '32px' }} >
-                <h1  style={{fontSize:'24px'}}>Computer Engineering</h1>
-                <p className='fw-light  ' style={{fontSize:'18px'}}>142,765 Computer Engineers follow this</p>
+
+            <div className='text-white mx-5 lh-0 pb-5 d-block d-lg-none' style={{ paddingTop: '250px', paddingBottom: '32px' }} >
+                <h1 style={{ fontSize: '24px' }}>Computer Engineering</h1>
+                <p className='fw-light  ' style={{ fontSize: '18px' }}>142,765 Computer Engineers follow this</p>
             </div>
         </div>
     );
 };
 
-export default Hero;
+export default Hero2;

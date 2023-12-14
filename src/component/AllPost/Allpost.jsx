@@ -49,9 +49,9 @@ const Allpost = () => {
                 </div>
                 <div className='d-flex align-items-center'>
                   <div className="card-text me-5 d-none d-lg-block"><small className="text-body-secondary d-flex align-items-center">
-                  
-                      <img src={eye} />
-                    
+
+                    <img src={eye} />
+
                     <span className='ps-1' style={{ fontSize: '14px' }}>
                       1.4k views
                     </span>
@@ -64,8 +64,8 @@ const Allpost = () => {
                   </div>
                   <div className='d-block d-lg-none'>
                     <button className='btn btn-light'>
-                    <img src={sh} />
-                     <span className='ps-1'>share</span>
+                      <img src={sh} />
+                      <span className='ps-1'>share</span>
                     </button>
                   </div>
                 </div>
@@ -79,8 +79,8 @@ const Allpost = () => {
               <p className='fw-semibold'>🔬️ Education</p>
               <div className='d-flex justify-content-between align-items-center'>
                 <h5 className=" " style={{ fontSize: '22px' }}>Tax Benefits for Investment under National Pension Scheme launched by Government</h5>
-                <button className='btn btn-light  btn-sm' style={{ marginTop: '-20px' }}>   
-                <img src={dot}  />
+                <button className='btn btn-light  btn-sm' style={{ marginTop: '-20px' }}>
+                  <img src={dot} />
                 </button>
               </div>
 
@@ -104,20 +104,20 @@ const Allpost = () => {
                 </div>
                 <div className='d-flex align-items-center'>
                   <div className="card-text me-5 d-none d-lg-block"><small className="text-body-secondary d-flex align-items-center">
-                  <img src={eye} />
-                <span className='ps-1' style={{ fontSize: '14px' }}>
-                  1.4k views
-                </span>
-              </small>
-              </div>
+                    <img src={eye} />
+                    <span className='ps-1' style={{ fontSize: '14px' }}>
+                      1.4k views
+                    </span>
+                  </small>
+                  </div>
                   <div className='d-none d-lg-block'>
                     <button className='btn btn-light'>
-                    <img src={sh} />
+                      <img src={sh} />
                     </button>
                   </div>
                   <div className='d-block d-lg-none'>
                     <button className='btn btn-light'>
-                    <img src={sh} /> <span className='ps-1'>share</span>
+                      <img src={sh} /> <span className='ps-1'>share</span>
                     </button>
                   </div>
                 </div>
@@ -134,8 +134,8 @@ const Allpost = () => {
                 <h5 className="pe-5 " style={{ fontSize: '22px' }}>Finance & Investment Elite Social Mixer @Lujiazui</h5>
 
                 <div className=' dropdown '>
-                  <button className='btn btn-light  btn-sm ' data-bs-toggle="dropdown" aria-expanded="false">  
-                   <img src={dot}  />
+                  <button className='btn btn-light  btn-sm ' data-bs-toggle="dropdown" aria-expanded="false">
+                    <img src={dot} />
                   </button>
                   <ul class="dropdown-menu ">
                     <li><a class="dropdown-item" >Edit</a></li>
@@ -145,15 +145,15 @@ const Allpost = () => {
                 </div>
               </div>
 
-              <div className='d-flex fw-semibold ' style={{paddingBottom:'16px'}}>
+              <div className='d-flex fw-semibold ' style={{ paddingBottom: '16px' }}>
                 <div className='pe-5 d-flex align-items-center'>
                   <img src={cal} />
-                   <span className='ps-1' style={{fontSize:'15px'}}> Fri, 12 Oct, 2018</span>
+                  <span className='ps-1' style={{ fontSize: '15px' }}> Fri, 12 Oct, 2018</span>
                 </div>
 
                 <div className='d-flex align-items-center'>
-                   <img src={loc} />
-                    <span className='ps-1' style={{fontSize:'15px'}}>
+                  <img src={loc} />
+                  <span className='ps-1' style={{ fontSize: '15px' }}>
                     Ahmedabad, India</span>
                 </div>
 
@@ -180,21 +180,21 @@ const Allpost = () => {
                 </div>
                 <div className='d-flex align-items-center'>
                   <div className="card-text me-5 align-items-center  d-none d-lg-block"><small className="text-body-secondary d-flex align-items-center">
-                  
-                  <img src={eye} />
-                
-                <span className='ps-1' style={{ fontSize: '14px' }}>
-                  800 views
-                </span>
-              </small></div>
+
+                    <img src={eye} />
+
+                    <span className='ps-1' style={{ fontSize: '14px' }}>
+                      800 views
+                    </span>
+                  </small></div>
                   <div className='d-none d-lg-block'>
                     <button className='btn btn-light'>
-                    <img src={sh} />
+                      <img src={sh} />
                     </button>
                   </div>
                   <div className='d-block d-lg-none'>
                     <button className='btn btn-light'>
-                    <img src={sh} /> <span className='ps-1'>share</span>
+                      <img src={sh} /> <span className='ps-1'>share</span>
                     </button>
                   </div>
                 </div>
@@ -211,28 +211,28 @@ const Allpost = () => {
                 <h5 className=" pe-5 d-block d-md-none" style={{ fontSize: '22px' }}>Software Developer-II</h5>
 
                 <button className='btn btn-light  btn-sm' >
-                <img src={dot}  />
+                  <img src={dot} />
                 </button>
 
               </div>
 
-              <div className='d-flex fw-semibold '  style={{paddingBottom:'16px'}}>
+              <div className='d-flex fw-semibold ' style={{ paddingBottom: '16px' }}>
                 <div className='pe-5 d-none d-md-flex align-items-center'>
                   <img src={b} />
-                    <span className='ps-1' style={{fontSize:'15px'}}>
+                  <span className='ps-1' style={{ fontSize: '15px' }}>
                     Innovaccer Analytics Private Ltd.
-                    </span> 
+                  </span>
                 </div>
                 <div className='pe-5 d-flex d-md-none align-items-center'>
                   <img src={b} />
-                    <span className='ps-1' style={{fontSize:'15px'}}>
+                  <span className='ps-1' style={{ fontSize: '15px' }}>
                     Innovaccer Analytics...
-                    </span> 
+                  </span>
                 </div>
 
                 <div className='d-flex align-items-center'>
-                   <img src={loc} />
-                    <span className='ps-1' style={{fontSize:'15px'}}>
+                  <img src={loc} />
+                  <span className='ps-1' style={{ fontSize: '15px' }}>
                     Noida, India</span>
                 </div>
 
@@ -259,22 +259,22 @@ const Allpost = () => {
                 </div>
                 <div className='d-flex align-items-center'>
                   <div className="card-text me-5 d-none d-lg-block"><small className="text-body-secondary d-flex align-items-center">
-                  
-                  <img src={eye} />
-                
-                <span className='ps-1' style={{ fontSize: '14px' }}>
-                  1.4k views
-                </span>
-              </small></div>
+
+                    <img src={eye} />
+
+                    <span className='ps-1' style={{ fontSize: '14px' }}>
+                      1.4k views
+                    </span>
+                  </small></div>
                   <div className='d-none d-lg-block'>
                     <button className='btn btn-light '>
-                    <img src={sh} />
+                      <img src={sh} />
                     </button>
                   </div>
                   <div className='d-block d-lg-none'>
                     <button className='btn btn-light'>
-                    <img src={sh} /> 
-                    <span className='ps-1'>share</span>
+                      <img src={sh} />
+                      <span className='ps-1'>share</span>
                     </button>
                   </div>
                 </div>
@@ -288,19 +288,12 @@ const Allpost = () => {
 
           <div className='d-flex justify-content-between align-items-center m-5'>
             <div className='pt-3'>
-              <p>
-                <span className='pe-2'><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
-                  <g clip-path="url(#clip0_1_886)">
-                    <path d="M9.99996 1.66675C6.77496 1.66675 4.16663 4.27508 4.16663 7.50008C4.16663 11.8751 9.99996 18.3334 9.99996 18.3334C9.99996 18.3334 15.8333 11.8751 15.8333 7.50008C15.8333 4.27508 13.225 1.66675 9.99996 1.66675ZM5.83329 7.50008C5.83329 5.20008 7.69996 3.33342 9.99996 3.33342C12.3 3.33342 14.1666 5.20008 14.1666 7.50008C14.1666 9.90008 11.7666 13.4918 9.99996 15.7334C8.26663 13.5084 5.83329 9.87508 5.83329 7.50008Z" fill="black" />
-                    <path d="M9.99996 9.58341C11.1506 9.58341 12.0833 8.65067 12.0833 7.50008C12.0833 6.34949 11.1506 5.41675 9.99996 5.41675C8.84937 5.41675 7.91663 6.34949 7.91663 7.50008C7.91663 8.65067 8.84937 9.58341 9.99996 9.58341Z" fill="black" />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_1_886">
-                      <rect width="20" height="20" fill="white" />
-                    </clipPath>
-                  </defs>
-                </svg></span>
-                Noida, India</p>
+              <div className='d-flex align-items-center'>
+                <img src={loc} />
+                <span className='ps-1' style={{ fontSize: '15px' }}>
+                  Noida, India</span>
+              </div>
+
             </div>
 
             <div>
