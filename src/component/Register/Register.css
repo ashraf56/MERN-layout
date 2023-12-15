@@ -1,5 +1,5 @@
-.modalbody1 {
-    width: 736px;
+.modalbody {
+    width:  736px;
     height: 457px;
     border-radius: 8px;
     background: #FFF;
@@ -8,12 +8,13 @@
     z-index: 1;
     backdrop-filter: blur(10px);
     margin-top: 200px;
+
     left: 20%;
 }
 
 .st {
     background-image: url('../../assets/Rectangle.png');
-    height: 1024px;
+   width: 100%;
     position: absolute;
     z-index: 1;
 }
@@ -29,6 +30,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: 16px;
+    /* 114.286% */
     border-radius: 8px 8px 0px 0px;
     background: #EFFFF4;
     padding: 17px;
@@ -36,6 +38,7 @@
 
 .h01 {
     color: #000;
+
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
@@ -49,12 +52,18 @@
     border-radius: 2px 2px 0px 0px;
     border: 1px solid #D9D9DB;
     background: #F7F8FA;
-   
+}
+.inputfeld2 {
+    width: 160px;
+    height: 46px;
+    border-radius: 2px 2px 0px 0px;
+    border: 1px solid #D9D9DB;
+    background: #F7F8FA;
 }
 
-.eye {
+.eye2 {
     position: absolute;
-   left: 80%;
+    right:15%;
     top: 20%;
 
 }
@@ -95,6 +104,17 @@
     right: 0%;
     margin-right: -12px;
 }
+
+.secondP{
+    color: #000;
+text-align: right;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; 
+margin-top: -20px;
+}
+
 @media only screen and (max-width: 1000px) {
    
     .signinbtn {
@@ -129,7 +149,7 @@ margin-top: 20px;
 padding-left: 57px;
 padding-right: 63px;
 }
-    .modalbody1 {
+    .modalbody {
         width: 360px;
         height: 462px;
         flex-shrink: 0;
@@ -158,7 +178,7 @@ margin-top: 20px;
 padding-left: 57px;
 padding-right: 63px;
 }
-    .modalbody1 {
+    .modalbody {
         width: 360px;
         height: 462px;
         margin: auto;
@@ -169,5 +189,5 @@ box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 0.25);
 left: 0%;
 right: 0%;
     }
-  
+   
 }

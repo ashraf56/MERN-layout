@@ -12,6 +12,7 @@ import pen from './assets/pen.svg'
 import Loggedpost2 from './component/AllPost/Loggedpost2'
 import Loginmodals from './component/Login/Loginmodals'
 import Login from './component/Login/Login'
+import Register from './component/Register/Register'
 function App() {
 
 
@@ -32,7 +33,7 @@ function App() {
       <Usertab></Usertab>
       <Loggedpost2></Loggedpost2>
       <Login></Login>
-      
+      <Register></Register>
 
     </div>
   )
