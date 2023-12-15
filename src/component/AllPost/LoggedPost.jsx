@@ -345,8 +345,8 @@ const LoggedPost = () => {
 
                             <p
                                 style={{
-                                    paddingLeft:'30px',
-                                    textAlign:'right',
+                                    paddingLeft: '30px',
+                                    textAlign: 'right',
                                     color: '#2F6CE5',
                                     fontSize: "12px",
                                     fontWeight: '400',

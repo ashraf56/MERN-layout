@@ -30,7 +30,7 @@ function Loginmodals() {
                                 <div className='col-lg-7 d-flex justify-content-between align-items-center'>
                                     <h1 className='h01  d-none d-lg-block'> Sign In</h1>
                                     <h1 className='h01  d-block d-lg-none'> Welcome back!</h1>
-                                    <img src={c2} className='d-block d-lg-none ' style={{paddingLeft:'100px',paddingTop:'22px'}}/>
+                                    <img src={c2} className='d-block d-lg-none ' style={{ paddingLeft: '100px', paddingTop: '22px' }} />
                                 </div>
                                 <div className='col-lg-5 d-none d-lg-block' style={{ fontSize: '13px' }}>
 
@@ -50,11 +50,11 @@ function Loginmodals() {
                                     </div>
 
 
-                                    
+
                                     <div className='d-flex d-lg-block  justify-content-between '>
-                             <button className='signinbtn '>Sign In</button>
-                               <a href="" className='d-block d-lg-none' style={{ color:'#495057'} }>or, Create Account</a>
-                                </div>
+                                        <button className='signinbtn '>Sign In</button>
+                                        <a href="" className='d-block d-lg-none' style={{ color: '#495057' }}>or, Create Account</a>
+                                    </div>
                                     <button className=' border border-secondary signinbtn2 align-items-center' style={{ marginBottom: '8px' }}>
                                         <img src={fb} />
                                         <span className='ps-1'> Sign in with Facebook</span></button>

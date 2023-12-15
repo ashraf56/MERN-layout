@@ -1,5 +1,5 @@
 import React from 'react';
-import people  from '../../assets/people.svg'
+import people from '../../assets/people.svg'
 const Tabs = () => {
     return (
         <div className='container mx-auto mt-5'>

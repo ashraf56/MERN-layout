@@ -18,12 +18,12 @@ const Hero = () => {
                 </nav>
             </div>
             <div className='text-white mx-5 lh-0 pb-5 d-none d-lg-block' style={{ paddingTop: '286px', paddingBottom: '80px' }} >
-                <h1  style={{fontSize:'36px'}}>Computer Engineering</h1>
-                <p className='fw-light  ' style={{fontSize:'18px'}}>142,765 Computer Engineers follow this</p>
+                <h1 style={{ fontSize: '36px' }}>Computer Engineering</h1>
+                <p className='fw-light  ' style={{ fontSize: '18px' }}>142,765 Computer Engineers follow this</p>
             </div>
-            <div className='text-white mx-5 lh-0 pb-5 d-block d-lg-none'style={{ paddingTop: '250px', paddingBottom: '32px' }} >
-                <h1  style={{fontSize:'24px'}}>Computer Engineering</h1>
-                <p className='fw-light  ' style={{fontSize:'18px'}}>142,765 Computer Engineers follow this</p>
+            <div className='text-white mx-5 lh-0 pb-5 d-block d-lg-none' style={{ paddingTop: '250px', paddingBottom: '32px' }} >
+                <h1 style={{ fontSize: '24px' }}>Computer Engineering</h1>
+                <p className='fw-light  ' style={{ fontSize: '18px' }}>142,765 Computer Engineers follow this</p>
             </div>
         </div>
     );
