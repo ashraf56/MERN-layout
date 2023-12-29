@@ -76,7 +76,6 @@ const Register = () => {
             </div>
             {/* card 2 */}
             <div className="card mb-3">
-              <img src={steel} className="card-img-top" />
               <div className="card-body">
                 <p className='fw-semibold'>🔬️ Education</p>
                 <div className='d-flex justify-content-between align-items-center'>

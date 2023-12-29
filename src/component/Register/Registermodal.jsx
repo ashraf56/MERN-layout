@@ -26,7 +26,6 @@ const Registermodal = () => {
                             <div className='row align-items-center' style={{ paddingLeft: '16px ', paddingRight: '16px' }}>
                                 <div className='col-lg-7 d-flex justify-content-between align-items-center'>
                                     <h1 className='h01'> Create Account</h1>
-                                    <img src={c2} className='d-block d-lg-none ' style={{ paddingLeft: '100px', paddingTop: '22px' }} />
                                 </div>
                                 <div className='col-lg-5' style={{ fontSize: '13px' }}>
 
@@ -65,8 +64,7 @@ const Registermodal = () => {
 
                                 </div>
                                 <div className='col-lg-6 d-none d-lg-block'>
-                                    <img src={imgs} style={{ width: '320px', height: '320px' }} />
-                                    <p className='secondP'>By signing up, you agree to our Terms & conditions, Privacy policy</p>
+                                 
                                 </div>
                             </div>
                         </div>

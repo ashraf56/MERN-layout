@@ -67,7 +67,7 @@ function Loginmodals() {
 
                                 </div>
                                 <div className='col-lg-6 d-none d-lg-block'>
-                                    <img src={imgs} />
+                                 
                                 </div>
                             </div>
                         </div>
